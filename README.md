@@ -1,488 +1,246 @@
 # 21-Days-Of-Machine-Learning
 
-## Day: 1
+## Day 1: Introduction to Data Science
 
-#### Introduction of Data Science
+### Resources:
+- [YouTube Video: Introduction to Data Science (30 mins)](https://www.youtube.com/watch?v=edZ_JYpOM8U)
+- [Intellipaat Blog: What is Data Science?](https://intellipaat.com/blog/what-is-data-science/)
+- [Medium Blog: Data Science Introduction by Ankit Rathi](https://medium.com/@rathi.ankit/data-science-introduction-e03773919c6)
+- [Towards Data Science Blog: Intro to Data Science](https://towardsdatascience.com/intro-to-data-science-531079c38b22)
 
-https://www.youtube.com/watch?v=edZ_JYpOM8U (30 Mins)
+## Application in Day-to-Day Life
 
-https://intellipaat.com/blog/what-is-data-science/ (Blog)
+### Resources:
+- [YouTube Video: Machine Learning in Day-to-Day Life (6 mins)](https://www.youtube.com/watch?v=HKcO3-6TYr0)
+- [GeeksforGeeks Blog: Machine Learning Introduction](https://www.geeksforgeeks.org/machine-learning-introduction/)
+- [Medium Blog: 9 Applications of Machine Learning in Day-to-Day Life](https://medium.com/app-affairs/9-applications-of-machine-learning-from-day-to-day-life-112a47a429d0)
+- [DataFlair Blog: Machine Learning Applications](https://data-flair.training/blogs/machine-learning-applications/)
 
-https://medium.com/@rathi.ankit/data-science-introduction-e03773919c6 (Blog)
+## Day 2 & 3: Python
 
-https://towardsdatascience.com/intro-to-data-science-531079c38b22 (Blog)
+### Resources:
+- [YouTube Video: Python for Beginners (7 hrs)](https://www.youtube.com/watch?v=YfO28Ihehbk)
+- [Official Python Documentation](https://docs.python.org/3/tutorial/)
+- [TutorialsPoint Blog: Python](https://www.tutorialspoint.com/python/index.htm)
 
-#### Application in Day to Day Life
+## Day 4: Exercises in Python
 
-https://www.youtube.com/watch?v=HKcO3-6TYr0 (6 mins)
+### Resources:
+- [W3Resource: Python Exercises](https://www.w3resource.com/python-exercises/)
+- [HackerRank: Python Domain](https://www.hackerrank.com/domains/python)
+- [CodingBat: Python](https://codingbat.com/python)
+- [Practice Python](https://www.practicepython.org/)
+- [Pynative: Python Exercises with Solutions](https://pynative.com/python-exercises-with-solutions/)
+- [Edabit: Python Challenges](https://edabit.com/challenges/python3)
+- [Exercism: Python Exercises](https://exercism.io/tracks/python/exercises)
+- [Programming with Mosh: Python Exercises and Questions for Beginners](https://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/)
 
-https://www.geeksforgeeks.org/machine-learning-introduction/ (Blog)
+### Installation of Anaconda Distribution and Others:
+- [YouTube Video: Installing Anaconda (14 mins)](https://www.youtube.com/watch?v=5mDYijMfSzs)
+- [Official Anaconda Installation Documentation](https://docs.anaconda.com/anaconda/install/)
+- [Programiz Blog: Python First Program](https://www.programiz.com/python-programming/first-program)
 
-https://medium.com/app-affairs/9-applications-of-machine-learning-from-day-to-day-life-112a47a429d0 (Blog)
+## Day 5: Numpy
 
-https://data-flair.training/blogs/machine-learning-applications/ (Blog)
+### Resources:
+- [YouTube Video: Numpy Tutorial (1 hr)](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+- [Official Numpy Basics Documentation](https://docs.scipy.org/doc/numpy/user/basics.html)
+- [W3Resource: Numpy Exercises](https://www.w3resource.com/python-exercises/numpy/index.php)
+- [Machine Learning Plus: 101 Numpy Exercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
 
-## Day: 2 & 3
+## Day 5: Pandas
 
-#### Python
+### Resources:
+- [YouTube Video: Pandas Tutorial (4 hrs)](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+- [YouTube Video: Pandas Project](https://www.youtube.com/watch?v=eMOA1pPVUc4)
+- [Official Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+- [W3Resource: Pandas Exercises](https://www.w3resource.com/python-exercises/pandas/index.php)
 
-https://www.youtube.com/watch?v=YfO28Ihehbk (7 Hrs)
+## Day 6: Visualization
 
-https://docs.python.org/3/tutorial/ (Official Website)
+### Matplotlib
 
-https://www.tutorialspoint.com/python/index.htm (Blog)
+### Resources:
+- [YouTube Video: Matplotlib Tutorial (3 hrs)](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
+- [Official Matplotlib Documentation](https://matplotlib.org/tutorials/index.html)
+- [Machine Learning Plus: Complete Guide to Matplotlib](https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/)
 
-## Day: 4
+### Seaborn
 
-#### Exercises in Python
+### Resources:
+- [YouTube Video: Seaborn Tutorial (2.5 hrs)](https://www.youtube.com/watch?v=GcXcSZ0gQps)
+- [Official Seaborn Documentation](https://seaborn.pydata.org/introduction.html)
+- [Elite Data Science: Seaborn Tutorial](https://elitedatascience.com/python-seaborn-tutorial)
 
-https://www.w3resource.com/python-exercises/ 
+### Plotly
 
-https://www.hackerrank.com/domains/python 
+### Resources:
+- [YouTube Video: Plotly Tutorial (2 hrs)](https://www.youtube.com/watch?v=NPznsxeL3FM&list=PLH6mU1kedUy9HTC1n9QYtVHmJRHQ97DBa)
+- [Official Plotly Documentation](https://plotly.com/python/)
 
-https://codingbat.com/python 
+## Day 7 & 8: Mathematics
 
-https://www.practicepython.org/
+### Topics:
+- Linear Algebra
+- Matrix
+- Statistics
 
-https://pynative.com/python-exercises-with-solutions/
+### Resources:
+- [Math is Fun: Data Blog](https://www.mathsisfun.com/data/)
+- [YouTube Playlist: Mathematics for Data Science (7 hrs)](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
 
-https://edabit.com/challenges/python3
+## Day 9: Machine Learning Basics
 
-https://exercism.io/tracks/python/exercises
+### Machine Learning and Types
 
-https://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/
+### Resources:
+- [YouTube Video: What is Machine Learning? (6 mins)](https://www.youtube.com/watch?v=HcqpanDadyQ)
+- [YouTube Video: Types of Machine Learning (20 mins)](https://www.youtube.com/watch?v=xtOg44r6dsE)
+- [Towards Data Science Blog: Machine Learning Introduction](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0)
 
-#### Installation of Anaconda Distribution and others
+### Exploratory Data Analysis (EDA)
 
-https://www.youtube.com/watch?v=5mDYijMfSzs (14 mins)
+### Resources:
+- [YouTube Video: Exploratory Data Analysis (45 mins)](https://www.youtube.com/watch?v=5NcbVYhQJvw)
+- [Towards Data Science Blog: EDA Guide](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
 
-https://docs.anaconda.com/anaconda/install/ (Official Website)
+### Data Extraction
 
-https://www.programiz.com/python-programming/first-program (Blog)
+### Resources:
+- [Towards Data Science Blog: Extracting Data for Machine Learning](https://towardsdatascience.com/extracting-data-for-machine-learning-f90b97a97f4c)
 
-## Day: 5
+### Data Cleansing and Transformation
 
-#### Numpy
+### Resources:
+- [Towards Data Science Blog: The Ultimate Guide to Data Cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
+- [Towards Data Science Blog: Data Preparation for Machine Learning](https://towardsdatascience.com/data-preparation-for-machine-learning-cleansing-transformation-feature-engineering-d2334079b06d)
+- [Pediaa Blog: Difference Between Data Cleansing and Data Transformation](https://pediaa.com/difference-between-data-cleansing-and-data-transformation/)
 
-https://www.youtube.com/watch?v=QUT1VHiLmmI (1 Hrs)
+### Data Preparation
 
-https://docs.scipy.org/doc/numpy/user/basics.html (Official Website)
+### Resources:
+- [YouTube Video: Data Preparation (7 mins)](https://www.youtube.com/watch?v=Zi-0rlM4RDs)
+- [Machine Learning Mastery Blog: Test, Validation, and Training Datasets](https://machinelearningmastery.com/difference-test-validation-datasets/)
+- [Towards Data Science Blog: Train, Validation, and Test Sets](https://towardsdatascience.com/train-validation-and-test-sets-72cb40cba9e7)
 
-https://www.w3resource.com/python-exercises/numpy/index.php (Exercises)
+## Day 10: Model Building
 
-https://www.machinelearningplus.com/python/101-numpy-exercises-python/ (Exercises)
+### Model
 
-#### Pandas
+### Resources:
+- [YouTube Video: What is a Model? (12 mins)](https://www.youtube.com/watch?v=60oFFvywKrQ)
 
-https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS (4 Hrs)
+### Types of Models
 
-https://www.youtube.com/watch?v=eMOA1pPVUc4 (Project)
+### Resources:
+- [Machine Learning Mastery Blog: Types of Learning in Machine Learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
+- [Towards Data Science Blog: Types of Machine Learning Algorithms](https://towardsdatascience.com/types-of-machine-learning-algorithms-you-should-know-953a08248861)
 
-https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html (Official Website)
+### Regression
 
-https://www.w3resource.com/python-exercises/pandas/index.php (Exercises)
+### Resources:
+- [Analytics Vidhya Blog: Comprehensive Guide to Regression](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)
+- [GeeksforGeeks Blog: Regression and Classification in Machine Learning](https://www.geeksforgeeks.org/regression-classification-supervised-machine-learning/)
 
-## Day: 6
+### Linear Regression
 
-### Visualization
+### Resources:
+- [YouTube Video: Linear Regression (30 mins)](https://www.youtube.com/watch?v=E5RjzSK0fvY)
+- [Towards Data Science Blog: Introduction to Linear Regression](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a)
+- [Machine Learning Mastery Blog: Linear Regression for Machine Learning](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
 
-#### Matplotlib
+### Logistic Regression
 
-https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_ (3 Hrs)
+### Resources:
+- [YouTube Video: Logistic Regression (30 mins)](https://www.youtube.com/watch?v=zAULhNrnuL4)
+- [Towards Data Science Blog: Logistic Regression Explained](https://towardsdatascience.com/logistic-regression-explained-9a4f25c21c96)
 
-https://matplotlib.org/tutorials/index.html (Official Website)
+## Day 11: Mathematics for Machine Learning
 
-https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/ (Blog)
+### Topics:
+- Linear Algebra
+- Matrix
+- Statistics
 
-#### Seaborn
+### Resources:
+- [Math is Fun: Data Blog](https://www.mathsisfun.com/data/)
+- [YouTube Playlist: Mathematics for Data Science (7 hrs)](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
 
-https://www.youtube.com/watch?v=GcXcSZ0gQps (2.5 Hrs)
+## Day 12: Supervised and Unsupervised Learning
 
-https://seaborn.pydata.org/introduction.html (Official Website)
+### Resources:
+- [YouTube Video: Supervised Learning (10 mins)](https://www.youtube.com/watch?v=FnB-oJY7tB0)
+- [YouTube Video: Unsupervised Learning (12 mins)](https://www.youtube.com/watch?v=UsVsVxnFQEM)
+- [YouTube Video: Supervised and Unsupervised Learning (10 mins)](https://www.youtube.com/watch?v=8Wu2B_TzHgo)
+- [Towards Data Science Blog: Supervised vs Unsupervised Learning](https://towardsdatascience.com/supervised-vs-unsupervised-learning-14f68e32ea8d)
+- [GeeksforGeeks Blog: Supervised Learning](https://www.geeksforgeeks.org/supervised-unsupervised-learning/)
 
-https://elitedatascience.com/python-seaborn-tutorial (Blog)
+## Day 13: Overfitting and Underfitting
 
-#### Plotly
+### Resources:
+- [YouTube Video: Overfitting and Underfitting (9 mins)](https://www.youtube.com/watch?v=Yc6xF1g1KaM)
+- [Towards Data Science Blog: Overfitting vs Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-53aa59f25538)
+- [Machine Learning Mastery Blog: Avoid Overfitting in Machine Learning](https://machinelearningmastery.com/avoid-overfitting-by-early-stopping-with-xgboost-in-python/)
+- [GeeksforGeeks Blog: Overfitting and Underfitting](https://www.geeksforgeeks.org/underfitting-and-overfitting-in-machine-learning/)
 
-https://www.youtube.com/watch?v=NPznsxeL3FM&list=PLH6mU1kedUy9HTC1n9QYtVHmJRHQ97DBa (2 Hrs)
+## Day 14: Training, Testing, and Validation
 
-https://plotly.com/python/ (Official Website)
+### Resources:
+- [YouTube Video: Train, Test, and Validation Sets (6 mins)](https://www.youtube.com/watch?v=5VRiGlmRzZU)
+- [Machine Learning Mastery Blog: Test, Validation, and Training Datasets](https://machinelearningmastery.com/difference-test-validation-datasets/)
+- [Towards Data Science Blog: Train, Validation, and Test Sets](https://towardsdatascience.com/train-validation-and-test-sets-72cb40cba9e7)
 
-## Day: 7 & 8
+## Day 15: Bias and Variance
 
-### Maths
-#### Linear algebra
+### Resources:
+- [YouTube Video: Bias and Variance (10 mins)](https://www.youtube.com/watch?v=EuBBz3bI-aA)
+- [Towards Data Science Blog: Bias vs Variance](https://towardsdatascience.com/bias-vs-variance-5ce26a17f000)
+- [GeeksforGeeks Blog: Bias-Variance Tradeoff](https://www.geeksforgeeks.org/bias-variance-trade-off-in-machine-learning/)
+- [Analytics Vidhya Blog: Bias-Variance Tradeoff](https://www.analyticsvidhya.com/blog/2020/08/bias-variance-tradeoff-machine-learning/)
 
-#### Matrix
+## Day 16: Error Metrics
 
-#### Statistics
+### Resources:
+- [YouTube Video: Error Metrics (12 mins)](https://www.youtube.com/watch?v=_2wjKueRDTs)
+- [Towards Data Science Blog: Classification Metrics for Machine Learning](https://towardsdatascience.com/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
+- [GeeksforGeeks Blog: Different Types of Error Metrics in Machine Learning](https://www.geeksforgeeks.org/different-types-of-error-metrics-in-machine-learning/)
 
-https://www.mathsisfun.com/data/ (Blog)
+## Day 17: K-Nearest Neighbors (KNN)
 
-https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566 (7 Hrs)
+### Resources:
+- [YouTube Video: K-Nearest Neighbors (12 mins)](https://www.youtube.com/watch?v=4HKqjENq9OU)
+- [Towards Data Science Blog: KNN Algorithm](https://towardsdatascience.com/knn-k-nearest-neighbors-a2fa87c71dc7)
+- [Analytics Vidhya Blog: K-Nearest Neighbors Algorithm](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
 
-## Day: 9
+## Day 18: Support Vector Machine (SVM)
 
-#### Machine Learning and Types
+### Resources:
+- [YouTube Video: Support Vector Machine (SVM) (15 mins)](https://www.youtube.com/watch?v=efR1C6CvhmE)
+- [Towards Data Science Blog: Support Vector Machine](https://towardsdatascience.com/support-vector-machines-are-very-powerful-9c748fdd0af7)
+- [Analytics Vidhya Blog: SVM Guide](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
 
-https://www.youtube.com/watch?v=HcqpanDadyQ (6 Mins)
+## Day 19: Decision Tree and Random Forest
 
-https://www.youtube.com/watch?v=xtOg44r6dsE (20 Mins)
+### Resources:
+- [YouTube Video: Decision Tree (15 mins)](https://www.youtube.com/watch?v=eKD5gxPPeY0)
+- [YouTube Video: Random Forest (12 mins)](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
+- [Towards Data Science Blog: Decision Trees vs Random Forest](https://towardsdatascience.com/decision-trees-and-random-forests-5e1a098d1cf1)
+- [GeeksforGeeks Blog: Decision Tree and Random Forest](https://www.geeksforgeeks.org/decision-tree-and-random-forest-in-python/)
 
-https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0 (Blog)
+## Day 20: Unsupervised Learning - Clustering
 
-#### Exploratory Data Analysis
+### Resources:
+- [YouTube Video: K-Means Clustering (10 mins)](https://www.youtube.com/watch?v=4b5d3muPQmA)
+- [Towards Data Science Blog: Clustering](https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03)
+- [GeeksforGeeks Blog: Clustering Algorithms](https://www.geeksforgeeks.org/clustering-algorithms/)
+- [Machine Learning Plus Blog: Clustering in Python](https://www.machinelearningplus.com/statistics/clustering-in-python/)
 
-https://www.youtube.com/watch?v=5NcbVYhQJvw (45 Mins)
+## Day 21: Final Project
 
-https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15 (Blog)
+### Project: End-to-End Machine Learning Project
 
-#### Data Extraction 
-
-https://towardsdatascience.com/extracting-data-for-machine-learning-f90b97a97f4c (Blog)
-
-#### Data Cleansing and Transformation
-
-https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4 (Blog)
-
-https://towardsdatascience.com/data-preparation-for-machine-learning-cleansing-transformation-feature-engineering-d2334079b06d (Blog)
-
-https://pediaa.com/difference-between-data-cleansing-and-data-transformation/ (Blog)
-
-#### Data Preparation
-
-https://www.youtube.com/watch?v=Zi-0rlM4RDs (7 Mins)
-
-https://machinelearningmastery.com/difference-test-validation-datasets/ (Blog)
-
-https://towardsdatascience.com/train-validation-and-test-sets-72cb40cba9e7 (Blog)
-
-## Day: 10 
-
-#### Model
-
-https://www.youtube.com/watch?v=60oFFvywKrQ (12 Mins)
-
-#### Types of Model
-
-https://machinelearningmastery.com/types-of-learning-in-machine-learning/ (Blog)
-
-https://towardsdatascience.com/types-of-machine-learning-algorithms-you-should-know-953a08248861 (Blog)
-
-#### Regression
-
-https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/ (Blog)
-
-https://www.geeksforgeeks.org/regression-classification-supervised-machine-learning/ (Blog)
-
-#### Linear Regression
-
-https://www.youtube.com/watch?v=E5RjzSK0fvY (30 Mins)
-
-https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a (Blog)
-
-https://machinelearningmastery.com/linear-regression-for-machine-learning/ (Blog)
-
-https://towardsdatascience.com/understanding-the-ols-method-for-simple-linear-regression-e0a4e8f692cc (Blog)
-
-#### Bias and Variance
-
-https://www.youtube.com/watch?v=EuBBz3bI-aA (7 Mins)
-
-https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229 (Blog)
-
-https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/ (Blog)
-
-#### Overfitting and Underfitting
-
-https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/ (Blog)
-
-#### MSE,MAE, R-Square
-
-https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0 (Blog)
-
-## Day: 11
-
-#### Polynomial Regression
-
-https://www.youtube.com/watch?v=Qnt2vBRW8Io (6 Mins)
-
-https://towardsdatascience.com/polynomial-regression-bbe8b9d97491 (Blog)
-
-#### Ridge Regression
-
-https://www.youtube.com/watch?v=Q81RR3yKn30 (30 Mins)
-
-https://towardsdatascience.com/ridge-regression-for-better-usage-2f19b3a202db (Blog)
-
-#### Lasso Regression
-
-https://www.youtube.com/watch?v=NGf0voTMlcs (9 Mins)
-
-https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b (Blog)
-
-#### Elastic Net Regression
-
-https://www.youtube.com/watch?v=1dKRdX9bfIo (6 Mins)
-
-https://hackernoon.com/an-introduction-to-ridge-lasso-and-elastic-net-regression-cca60b4b934f (Blog)
-
-https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net (Blog)
-
-## Day: 12
-
-#### Support Vector Regression(SVR)
-
-https://www.youtube.com/watch?v=Fq_mwvdzzjI (10 Mins)
-
-https://towardsdatascience.com/an-introduction-to-support-vector-regression-svr-a3ebc1672c2 (Blog)
-
-#### Decision Tree Regression 
-
-https://www.youtube.com/watch?v=g9c66TUylZ4 (23 Mins)
-
-https://towardsdatascience.com/decision-tree-algorithm-explained-83beb6e78ef4 (Blog) 
-
-https://medium.com/pursuitnotes/decision-tree-regression-in-6-steps-with-python-1a1c5aa2ee16 (Blog)
-
-## Day: 13
-
-#### Random Forest Regression
-
-https://www.youtube.com/watch?v=D_2LkhMJcfY (8 Mins)
-
-https://www.geeksforgeeks.org/random-forest-regression-in-python/ (Blog)
-
-https://towardsdatascience.com/random-forest-and-its-implementation-71824ced454f (Blog)
-
-#### Ensemble Method
-
-https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f (Blog)
-
-https://blog.statsbot.co/ensemble-learning-d1dcd548e936 (Blog)
-
-#### Bagging and Boosting
-
-https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205 (Blog)
-
-#### Bootstrap
-
-https://machinelearningmastery.com/a-gentle-introduction-to-the-bootstrap-method/ (Blog)
-
-https://towardsdatascience.com/an-introduction-to-the-bootstrap-method-58bcb51b4d60 (Blog)
-
-## Day: 14
-
-#### Classification
-
-https://www.youtube.com/watch?v=pXdum128xww (34 Mins)
-
-https://medium.com/datadriveninvestor/classification-algorithms-in-machine-learning-85c0ab65ff4 (Blog)
-
-https://medium.com/@Mandysidana/machine-learning-types-of-classification-9497bd4f2e14 (Blog)
-
-#### Logistic Regression
-
-https://www.youtube.com/watch?v=VCJdg7YBbAQ (1 Hrs)
-
-https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc (Blog)
-
-https://machinelearningmastery.com/logistic-regression-for-machine-learning/ (Blog)
-
-#### K-Nearest Neighbors (K-NN)
-
-https://www.youtube.com/watch?v=HVXime0nQeI (6 Mins)
-
-https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761 (Blog)
-
-https://www.geeksforgeeks.org/k-nearest-neighbours/ (Blog)
-
-https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/ (Blog)
-
-#### Precision and Recall
-
-https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c (Blog)
-
-https://towardsdatascience.com/precision-vs-recall-386cf9f89488 (Blog)
-
-https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/ (Blog)
-
-#### F-Score
-
-https://towardsdatascience.com/accuracy-recall-precision-f-score-specificity-which-to-optimize-on-867d3f11124 (Blog)
-
-#### AUC  & ROC
-
-https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5 (Blog)
-
-https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/ (Blog)
-
-## Day: 15
-
-#### Support Vector Machine (SVM)
-
-https://www.youtube.com/watch?v=efR1C6CvhmE&t=897s (21 Mins)
-
-https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47 (Blog)
-
-#### Naive Bayes
-
-https://www.youtube.com/watch?v=l3dZ6ZNFjo0 (45 Mins)
-
-https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c (Blog)
-
-#### Principal Component Analysis (PCA)
-
-https://www.youtube.com/watch?v=FgakZw6K1QQ (22 Mins)
-
-https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c (Blog)
-
-#### Cross Validation
-
-https://www.youtube.com/watch?v=7062skdX05Y (17 Mins)
-
-https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f (Blog)
-
-https://machinelearningmastery.com/k-fold-cross-validation/ (Blog)
-
-#### Grid Search
-
-https://www.youtube.com/watch?v=HdlDYng8g9s (17 Mins)
-
-https://www.youtube.com/watch?v=Ah4wsTXghwI (8 Mins)
-
-https://towardsdatascience.com/grid-search-for-model-tuning-3319b259367e (Blog)
-
-https://www.datacamp.com/community/tutorials/parameter-optimization-machine-learning-models (Blog)
-
-#### UnderSampling and OverSampling
-
-https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/ (Blog)
-
-https://machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification/ (Blog)
-
-https://www.kaggle.com/residentmario/undersampling-and-oversampling-imbalanced-data (Blog)
-
-#### Balanced and InBalanced Data
-
-https://medium.com/analytics-vidhya/what-is-balance-and-imbalance-dataset-89e8d7f46bc5 (Blog)
-
-https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/ (Blog)
-
-https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html (Blog)
-
-## Day: 16
-
-#### Decision Tree Classification
-
-https://www.youtube.com/watch?v=7VeUPuFGJHk (20 Mins)
-
-https://towardsdatascience.com/decision-tree-classification-de64fc4d5aac (Blog)
-
-https://www.datacamp.com/community/tutorials/decision-tree-classification-python (Blog)
-
-#### Random Forest Classification
-
-https://www.youtube.com/watch?v=D_2LkhMJcfY (8 Mins)
-
-https://towardsdatascience.com/random-forest-classification-and-its-implementation-d5d840dbead0 (Blog)
-
-https://towardsdatascience.com/understanding-random-forest-58381e0602d2 (Blog)
-
-#### Out of Bag (OOB)
-
-https://towardsdatascience.com/what-is-out-of-bag-oob-score-in-random-forest-a7fa23d710 (Blog)
-
-#### Confusion Matrix
-
-https://www.youtube.com/watch?v=8Oog7TXHvFY (36 Mins)
-
-https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62 (Blog)
-
-## Day: 17
-
-#### Clustering
-
-https://www.youtube.com/watch?v=UhVn2WrzMnI (24 Mins)
-
-https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/ (Blog)
-
-https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68 (Blog)
-
-#### K-Means Clustering
-
-https://www.youtube.com/watch?v=4b5d3muPQmA (8 Mins)
-
-https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1 (Blog)
-
-https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a (Blog)
-
-#### Hierarchical Clustering
-
-https://www.youtube.com/watch?v=7xHsRkOdVwo (12 Mins)
-
-https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec (Blog)
-
-## Day: 18
-
-#### NLP
-
-https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL (3 Hrs)
-
-https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1 (Blog)
-
-## Day: 19
-
-#### XGBoost
-
-https://www.youtube.com/watch?v=kho6oANGu_A (22 Mins)
-
-https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/ (Blog)
-
-https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d (Blog)
-
-## Day: 20
-
-#### Deploy Model
-
-https://www.youtube.com/watch?v=-UYyyeYJAoQ (36 Mins)
-
-https://towardsdatascience.com/simple-way-to-deploy-machine-learning-models-to-cloud-fd58b771fdcf (Blog)
-
-https://towardsdatascience.com/a-simple-way-to-deploy-any-machine-learning-model-106d463e9a4b (Blog)
-
-https://www.kdnuggets.com/2019/06/approaches-deploying-machine-learning-production.html (Blog)
-
-https://www.analyticsvidhya.com/blog/2017/09/machine-learning-models-as-apis-using-flask/ (Blog)
-
-## Day: 21
-
-#### Projects
-
-https://elitedatascience.com/machine-learning-projects-for-beginners 
-
-https://data-flair.training/blogs/machine-learning-project-ideas/
-
-https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners/397
-
-https://www.ubuntupit.com/top-20-best-machine-learning-projects-for-beginner-to-professional/
-
-https://www.simplilearn.com/machine-learning-projects-for-beginners-article
-
-#### Interview Preparation
-
-https://github.com/iNeuronai/interview-question-data-science-
-
-Learn More
-#### Deep Learning
-
-#### Tableau
-
-#### Flask
-
-https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH (10 Hrs)
-
-https://palletsprojects.com/p/flask/ (Blog)
-
-https://www.fullstackpython.com/flask.html (Blog)
-
+### Resources:
+- [YouTube Video: End-to-End Machine Learning Project (4 hrs)](https://www.youtube.com/watch?v=0ct7r3pZwpA)
+- [Towards Data Science Blog: End-to-End Machine Learning Project](https://towardsdatascience.com/end-to-end-machine-learning-project-5cf4bc3e4b68)
+- [Kaggle: Titanic Dataset](https://www.kaggle.com/c/titanic/data)
+- [GitHub: Machine Learning Projects](https://github.com/topics/machine-learning-project)
